@@ -1,5 +1,5 @@
 [metadata.heroku]
-  root-package = "github.com/iancoffey/ulmaceae"
+  root-package = "github.com/bigfleet/ulmaceae"
 
 [prune]
   go-tests = true
